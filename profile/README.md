@@ -1,6 +1,4 @@
-# 🌍 Utopia OS
-
-Welcome to **Utopia OS**! Our mission is to empower real-life communities through collaborative technology and open-source innovation.
+Welcome to Utopia! Our mission is to empower real-life communities through collaborative technology and open-source innovation.
 
 ---
 
