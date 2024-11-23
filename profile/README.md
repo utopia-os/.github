@@ -1,7 +1,3 @@
-Welcome to Utopia! Our mission is to empower real-life communities through collaborative technology and open-source innovation.
-
----
-
 ## 🚀 About Utopia OS
 
 Utopia OS is more than a collection of repositories—it’s a vision for a better, more connected world. By leveraging open-source technology, we aim to build tools that help communities thrive by fostering collaboration, accessibility, and innovation.
