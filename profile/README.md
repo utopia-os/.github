@@ -46,8 +46,8 @@ Utopia OS relies on modern, scalable, and flexible technologies:
 
 Have questions or want to collaborate? Reach out to us:
 
-- 📧 **Email**: contact@utopia-os.org
-- 🐦 **Twitter**: [@UtopiaOS](https://twitter.com/UtopiaOS)
+- 📧 **Telegram**: [UtopiaGame](https://t.me/UtopiaMap)
+- 🐦 **Twitter**: [@UtopiaMap](https://twitter.com/UtopiaMapGame)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/utopia-os/utopia-ui/discussions)
 
 ---
@@ -56,6 +56,3 @@ Have questions or want to collaborate? Reach out to us:
 
 All Utopia OS projects are licensed under the [GNU General Public License v3.0](https://github.com/utopia-os/utopia-ui/blob/main/LICENSE). Feel free to use, modify, and share in alignment with the license.
 
----
-
-🌟 **Join us in building a better, more connected world with Utopia OS!**  
