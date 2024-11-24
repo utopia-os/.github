@@ -19,9 +19,7 @@ Classic social media often fails to create real change. In our search for soluti
 
 When we step outside, meet in person, and build strong local communities that foster real connection and collaboration. When we create common decentralized infrastructure to fullfill our human needs in harmony with nature.
 
-We reconnect with our the Earth. We recognize our power as creators of our individual and collective realities. We share our our true dreams and help each other to unleash our full potentials.
-
-We raise our consciousness and learn to live in balance with Mother Earth, shaping a future where humanity thrives alongside nature.
+We reconnect with our the Earth. We recognize our power as creators of our individual and collective realities. We share our our true dreams and help each other to unleash our full potentials. We raise our consciousness and learn to live in balance with Mother Earth, shaping a future where humanity thrives alongside nature.
 
 ### 🌍 **Collaborative Maps**
 
