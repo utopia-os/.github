@@ -2,7 +2,7 @@
 
 Utopia provides map-centric tools to empower free individuals to create social and economic alternatives where we reclaim responsibility for ourselves, our communities, and our planet. By building shared structures that meet human needs in harmony with nature, we help each other step off the hamster wheel of work and consumption to become the creators of our individual and collective realities.
 
-### 💥 **Great Challenges**
+### 💥 **Humanity's challenges in the 21st century**
 
 In this times we are facing as humanity existential challenges. Although in the 21st century we have all the technology and knowledge to overcome these crises and create new realities in which we live freely and self-determined with each other and with Mother Nature, we are often held back by fear, conditioning and dependence on external authorities. We are often disconnected from our inner sense of truth and are not aware of our true calling, the greater whole and our individual gifts and talants, or are afraid to live them.
 
