@@ -55,7 +55,11 @@ As we play, we connect with ourselves, our creative power, our dreams and other 
 
 All Utopia OS projects are licensed under the [GNU General Public License v3.0](https://github.com/utopia-os/utopia-ui/blob/main/LICENSE). Feel free to use, modify, and share in alignment with the license.
 
-## Support Utopia Project 💚
+## Join Us
+
+Become part of the team and [join us on Telegram](https://t.me/UtopiaMap)
+
+## Crowdfunding 💚
 
 We are building Utopia Map as a collaborative, community-driven tool for decentralized coordination and real-life networking. To keep this project sustainable and accessible, we need your support!
 
