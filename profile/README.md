@@ -43,7 +43,9 @@ Flexible collaborative app based on **[Utopia UI](https://github.com/utopia-os/u
 
 Utopia Map is made for networks and initiatives that aim to connect people in real life. By providing a custom instance of Utopia Map, each network can grow and coordinate its ecosystem effectively while encouraging real-world interactions and collaborations.
 ### [Utopia Game](https://github.com/utopia-os/utopia-game)
-It's a transformative game where we connect with ourselves, each other and our dreams to manifest them together. 
+Is a transformative cooperative game and the playful approach to building decentralized networks to heal ourselves, the human collective and the earth.
+
+As we play, we connect with ourselves, our creative power, our dreams and other people to collectively manifest, actively shape our future and heal the planet.
 
 ## 📜 License
 
