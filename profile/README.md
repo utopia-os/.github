@@ -30,12 +30,12 @@ Our success isn’t measured in clicks or likes — it’s measured in real enco
 Utopia is a multi-layered ecosystem designed to address various audiences: **Utopia UI** provides the foundation and is intended *for developers*, while **Utopia Map** takes this foundation and tailors a ready-to-use product *for networks and initiatives*, while **Utopia Game** builds on Utopia Map, adding gamification to *inspire individuals to collective action*.
 
 ### [Utopia UI](https://github.com/utopia-os/utopia-ui)
-[![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-ui)](https://github.com/utopia-os/utopia-ui/stargazers) [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-ui)](https://github.com/utopia-os/utopia-ui/graphs/contributors) [![npm version](https://img.shields.io/npm/v/utopia-ui.svg)](https://www.npmjs.com/package/utopia-ui)
+[![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-ui)](https://github.com/utopia-os/utopia-ui/stargazers) [![GitHub forks](https://img.shields.io/github/forks/utopia-os/utopia-ui)](https://github.com/utopia-os/utopia-ui/forks) [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-ui)](https://github.com/utopia-os/utopia-ui/graphs/contributors) [![npm version](https://img.shields.io/npm/v/utopia-ui.svg)](https://www.npmjs.com/package/utopia-ui)
 
 Library of reusable React components designed to build map-centric apps for all kinds of real-life networks and communities. It provides a flexible and easy-to-use toolkit that empowers developers to create interactive, user-friendly maps and applications.
 
 ### [Utopia Map](https://github.com/utopia-os/utopia-map)
-[![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-map)](https://github.com/utopia-os/utopia-map/stargazers)
+[![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-map)](https://github.com/utopia-os/utopia-map/stargazers) [![GitHub forks](https://img.shields.io/github/forks/utopia-os/utopia-map)](https://github.com/utopia-os/utopia-map/forks)
 [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-map)](https://github.com/utopia-os/utopia-map/graphs/contributors)
 
 
@@ -45,7 +45,7 @@ Flexible collaborative map app based on *Utopia UI* for decentralized coordinati
 Utopia Map is made for networks and initiatives that aim to connect people in real life. By providing a custom instance of Utopia Map, each network can grow and coordinate its ecosystem effectively while encouraging real-world interactions and collaborations.
 
 ### [Utopia Game](https://github.com/utopia-os/utopia-game)
-[![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/stargazers)
+[![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/stargazers) [![GitHub forks](https://img.shields.io/github/forks/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/forks)
 [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/graphs/contributors)
 
 Utopia Game is an instance of *Utopia Map* enhanced with gamification elements and interactive real life quests. As we play, we connect with ourselves, our creative power, our dreams and other people to collectively shape our future. As a transformative cooperative game it provides a playful approach to building decentralized networks to heal ourselves, the human collective and the earth.
