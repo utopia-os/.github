@@ -38,7 +38,7 @@ Library of reusable React components designed to build map-centric apps for all 
 
 
 
-Flexible collaborative app based on *Utopia UI* for decentralized coordination and real-life networking that can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
+Flexible collaborative map app based on *Utopia UI* for decentralized coordination and real-life networking that can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
 
 Utopia Map is made for networks and initiatives that aim to connect people in real life. By providing a custom instance of Utopia Map, each network can grow and coordinate its ecosystem effectively while encouraging real-world interactions and collaborations.
 
