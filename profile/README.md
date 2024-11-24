@@ -27,12 +27,18 @@ Our success isn’t measured in clicks or likes — it’s measured in real enco
 
 ##  Projects
 
-### [Utopia UI](https://github.com/utopia-os/utopia-ui) [![npm version](https://img.shields.io/npm/v/utopia-ui.svg)](https://www.npmjs.com/package/utopia-ui)  ![Build Status](https://img.shields.io/github/actions/workflow/status/utopia-os/utopia-ui/test.build.yml?branch=main)
-Reuseable React Components to build map-centric apps for all kinds of real life networks and communities 
+### [Utopia UI](https://github.com/utopia-os/utopia-ui)
+[![npm version](https://img.shields.io/npm/v/utopia-ui.svg)](https://www.npmjs.com/package/utopia-ui)  [![Build Status](https://img.shields.io/github/actions/workflow/status/utopia-os/utopia-ui/test.build.yml?branch=main)](https://github.com/utopia-os/utopia-ui/actions/workflows/test.build.yml) [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-ui)](https://github.com/utopia-os/utopia-ui/graphs/contributors)
+
+Library of reusable React components designed to build map-centric apps for all kinds of real-life networks and communities. It provides a flexible and easy-to-use toolkit that empowers developers to create interactive, user-friendly maps and applications.
 
 ### [Utopia Map](https://github.com/utopia-os/utopia-map)
-collaborative maps for real-life networking and decentralized coordination 
 
+[![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-map)](https://github.com/utopia-os/utopia-map/graphs/contributors)
+
+Flexible collaborative app based on **[Utopia UI](https://github.com/utopia-os/utopia-ui)** for decentralized coordination and real-life networking that can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
+
+Utopia Map is made for networks and initiatives that aim to connect people in real life. By providing a custom instance of Utopia Map, each network can grow and coordinate its ecosystem effectively while encouraging real-world interactions and collaborations.
 ### [Utopia Game](https://github.com/utopia-os/utopia-game)
 It's a transformative game where we connect with ourselves, each other and our dreams to manifest them together. 
 
