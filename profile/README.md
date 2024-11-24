@@ -4,11 +4,9 @@ Utopia provides tools to empower free individuals to create social and economic 
 
 ### 💥 **Great Challenges**
 
-Humanity is facing existential challenges. In the 21st century, despite having all the knowledge and technology needed to overcome these crises and create a new reality where we live freely and in harmony with each other and Mother Nature, we are often held back by fear, conditioning, and dependence on external authorities.  
+In this times we are facing as humanity existential challenges. Although in the 21st century we have all the technology and knowledge to overcome these crises and create new realities in which we live freely and self-determined with each other and with Mother Nature, we are often held back by fear, conditioning and dependence on external authorities. We are often disconnected from our inner sense of truth and are not aware of our true calling, the greater whole and our individual gifts and talants, or are afraid to live them.
 
-Disconnected from our inner sense of truth, we lose awareness of our true calling, the greater whole, and our unique gifts and talents—or we are too afraid to live them.  
-
-But a shift is happening. As old systems crumble, more and more people are waking up—ready to step out of their comfort zones, connect with others, and take back responsibility for their lives, their communities, and the planet. 🌱  
+But a shift is happening. As the old systems crumble, more and more people are waking up, ready to step out of their comfort zones, to connect with others and to take back responsibility for their lives, their communities, and the planet. 
 
 ### 📺 **The Problem with Social Media**
 
