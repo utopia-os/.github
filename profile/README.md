@@ -1,3 +1,5 @@
+[![](https://img.shields.io/opencollective/backers/utopia-project)]()
+
 ## 🌍 **Mission**
 
 Utopia provides map-centric tools to empower free individuals to create social and economic alternatives where we reclaim responsibility for ourselves, our communities, and our planet. By building shared structures that meet human needs in harmony with nature, we help each other step off the hamster wheel of work and consumption to become the creators of our individual and collective realities.
@@ -35,6 +37,9 @@ Library of reusable React components designed to build map-centric apps for all 
 ### [Utopia Map](https://github.com/utopia-os/utopia-map)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-map)](https://github.com/utopia-os/utopia-map/graphs/contributors)
+![GitHub top language](https://img.shields.io/github/languages/top/utopia-os/utopia-map)
+
+
 
 Flexible collaborative app based on **[Utopia UI](https://github.com/utopia-os/utopia-ui)** for decentralized coordination and real-life networking that can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
 
