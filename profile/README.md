@@ -13,7 +13,7 @@ But a shift is happening. As the old systems crumble, more and more people are w
 Classic social media often fails to create real change. In our search for solutions and like-minded people, we get lost in endless group chats, overwhelming feeds, and isolating filter bubbles. Most of the time spent in front of screens feels like wasted time and energy. Controlled by algorithms, we consume and share information that rarely has any real-life relevance or impact.  
 
 
-### ✨ Real change happens in real life:  
+### ✨ Real Change happens in Real Life  
 
 When we step outside, meet in person, and build strong local communities that foster real connection and collaboration. When we create common decentralized infrastructure to fullfill our human needs in harmony with nature.
 
