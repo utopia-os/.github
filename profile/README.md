@@ -1,6 +1,6 @@
 ## 🌍 Utopia's Mission
 
-Utopia provides tools to empower free people to create social and economic alternatives where we reclaim responsibility for ourselves, our communities, and our planet. By building shared structures that meet human needs in harmony with nature, we help each other step off the hamster wheel of work and consumption. 
+Utopia provides tools to empower free people to create social and economic alternatives where we reclaim responsibility for ourselves, our communities, and our planet. By building shared structures that meet human needs in harmony with nature, we help each other step off the hamster wheel of work and consumption to become the creators of our individual and collective realities.
  
 **✨ Real change happens when we:**  
 - 🤝 Connect in person and build strong local communities
