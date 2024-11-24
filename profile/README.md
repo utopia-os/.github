@@ -27,8 +27,15 @@ Our success isn’t measured in clicks or likes — it’s measured in real enco
 
 ##  Projects
 
-### Utopia UI
+### [Utopia UI](https://github.com/utopia-os/utopia-ui) [![npm version](https://img.shields.io/npm/v/utopia-ui.svg)](https://www.npmjs.com/package/utopia-ui)  ![Build Status](https://img.shields.io/github/actions/workflow/status/utopia-os/utopia-ui/test.build.yml?branch=main)
+Reuseable React Components to build map-centric apps for all kinds of real life networks and communities 
 
-### Utopia Map
+### [Utopia Map](https://github.com/utopia-os/utopia-map)
+collaborative maps for real-life networking and decentralized coordination 
 
-### Utopia Game
+### [Utopia Game](https://github.com/utopia-os/utopia-game)
+It's a transformative game where we connect with ourselves, each other and our dreams to manifest them together. 
+
+## 📜 License
+
+All Utopia OS projects are licensed under the [GNU General Public License v3.0](https://github.com/utopia-os/utopia-ui/blob/main/LICENSE). Feel free to use, modify, and share in alignment with the license.
