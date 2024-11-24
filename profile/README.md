@@ -1,5 +1,3 @@
-[![](https://img.shields.io/opencollective/backers/utopia-project)]()
-
 ## 🌍 **Mission**
 
 Utopia provides map-centric tools to empower free individuals to create social and economic alternatives where we reclaim responsibility for ourselves, our communities, and our planet. By building shared structures that meet human needs in harmony with nature, we help each other step off the hamster wheel of work and consumption to become the creators of our individual and collective realities.
@@ -50,3 +48,12 @@ It's a transformative game where we connect with ourselves, each other and our d
 ## 📜 License
 
 All Utopia OS projects are licensed under the [GNU General Public License v3.0](https://github.com/utopia-os/utopia-ui/blob/main/LICENSE). Feel free to use, modify, and share in alignment with the license.
+
+## Support Utopia Proect 💚
+[![](https://img.shields.io/opencollective/backers/utopia-project)]()
+
+We are building Utopia Map as a collaborative, community-driven tool for decentralized coordination and real-life networking. To keep this project sustainable and accessible, we need your support!
+
+<a href="https://opencollective.com/utopia-project">
+    <img width="300" src="https://opencollective.com/utopia-project/donate/button@2x.png?color=blue" />
+</a>
