@@ -39,11 +39,12 @@ Library of reusable React components designed to build map-centric apps for all 
 
 
 
-Flexible collaborative app based on Utopia UI for decentralized coordination and real-life networking that can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
+Flexible collaborative app based on *Utopia UI* for decentralized coordination and real-life networking that can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
 
 Utopia Map is made for networks and initiatives that aim to connect people in real life. By providing a custom instance of Utopia Map, each network can grow and coordinate its ecosystem effectively while encouraging real-world interactions and collaborations.
+
 ### [Utopia Game](https://github.com/utopia-os/utopia-game)
-Is a transformative cooperative game and the playful approach to building decentralized networks to heal ourselves, the human collective and the earth.
+Utopia Game is an instance of *Utopia Map* enhanced with gamification elements and interactive real life quests. As a transformative cooperative game it provides a playful approach to building decentralized networks to heal ourselves, the human collective and the earth.
 
 As we play, we connect with ourselves, our creative power, our dreams and other people to collectively manifest, actively shape our future and heal the planet.
 
