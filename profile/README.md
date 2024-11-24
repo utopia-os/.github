@@ -9,7 +9,7 @@ Utopia aims to create a social and economic alternative where free individuals r
 
 **🌟 We envision a world where we:**
 - 🌌 Become the creators of their own realities.  
-- 🌍 Reconnect with Mother Earth** and align with our dreams.  
+- 🌍 Reconnect with Mother Earth and align with our dreams.  
 - 💫 Rise Consciousnes, leading to a harmonious, sustainable future.  
 
 💡 **Together, we can shape a new world that thrives in balance and harmony!**
