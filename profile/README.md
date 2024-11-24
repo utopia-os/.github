@@ -19,8 +19,16 @@ When we step outside, meet in person, and build strong local communities that fo
 
 We reconnect with our the Earth. We recognize our power as creators of our individual and collective realities. We share our our true dreams and help each other to unleash our full potentials. We raise our consciousness and learn to live in balance with Mother Earth, shaping a future where humanity thrives alongside nature.
 
-### 🌍 **Collaborative Maps**
+### 🌍 **Collaborative Map-centric Apps**
 
-We believe in maps as the perfect bridge between digital tools and real-life action. In our apps, maps serve as landing pages and central elements for connection and collaboration.  
+We believe in maps as the perfect bridge between digital tools and real-life action. In our apps, maps serve as landing pages and central elements for connection and collaboration. All interactions are rooted in the earth and lead to real encounters with real people in real places.
 
 Our success isn’t measured in clicks or likes — it’s measured in real encounters. We believe that nature and technology can complement each other symbiotically, as long as we confidently use their potential as tools rather than submitting ourselves to algorithms.  
+
+##  Projects
+
+### Utopia UI
+
+### Utopia Map
+
+### Utopia Game
