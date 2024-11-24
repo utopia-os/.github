@@ -50,7 +50,7 @@ It's a transformative game where we connect with ourselves, each other and our d
 All Utopia OS projects are licensed under the [GNU General Public License v3.0](https://github.com/utopia-os/utopia-ui/blob/main/LICENSE). Feel free to use, modify, and share in alignment with the license.
 
 ## Support Utopia Proect 💚
-[![](https://img.shields.io/opencollective/backers/utopia-project)]()
+[![](https://img.shields.io/opencollective/backers/utopia-project)](https://opencollective.com/utopia-project#section-contributors)
 
 We are building Utopia Map as a collaborative, community-driven tool for decentralized coordination and real-life networking. To keep this project sustainable and accessible, we need your support!
 
