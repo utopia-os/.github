@@ -52,7 +52,7 @@ Utopia Game is an instance of **Utopia Map** enhanced with gamification elements
 
 ## 🔑 Core Concepts
 
-### 🤝 Web of Trust
+### 🔒 Web of Trust
 The Web of Trust is central to Utopia’s vision of building decentralized networks rooted in real-life connections. Trust is established through personal encounters, creating a secure, transparent, and community-driven network.  
 
 By enabling users to share encrypted data exclusively with individuals they know and trust, the Web of Trust enhances privacy and fosters deeper connections. It lays the foundation for authentic collaboration and meaningful interactions.
