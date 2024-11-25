@@ -40,7 +40,7 @@ Library of reusable React components designed to build map-centric apps for all 
 
 
 
-Flexible collaborative map app based on *Utopia UI* for decentralized coordination and real-life networking. Provided as self-hosted or SaaS product it can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
+Flexible collaborative map app based on **Utopia UI** for decentralized coordination and real-life networking. Provided as self-hosted or SaaS product it can be adapted to the specific requirements of different networks. Its central element is the interactive geographical map, where users can add and manage Items in predefined Layers.
 
 Utopia Map is made for networks and initiatives that aim to connect people in real life. By providing a custom instance of Utopia Map, each network can grow and coordinate its ecosystem effectively while encouraging real-world interactions and collaborations.
 
@@ -48,8 +48,23 @@ Utopia Map is made for networks and initiatives that aim to connect people in re
 [![Github Stars](https://img.shields.io/github/stars/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/stargazers) [![GitHub forks](https://img.shields.io/github/forks/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/forks)
 [![GitHub contributors](https://img.shields.io/github/contributors/utopia-os/utopia-game)](https://github.com/utopia-os/utopia-game/graphs/contributors)
 
-Utopia Game is an instance of *Utopia Map* enhanced with gamification elements and interactive real life quests. As we play, we connect with ourselves, our creative power, our dreams and other people to collectively shape our future. As a transformative cooperative game it provides a playful approach to building decentralized networks to heal ourselves, the human collective and the earth.
+Utopia Game is an instance of **Utopia Map** enhanced with gamification elements and interactive real life quests. As we play, we connect with ourselves, our creative power, our dreams and other people to collectively shape our future. As a transformative cooperative game it provides a playful approach to building decentralized networks to heal ourselves, the human collective and the earth.
 
+## 🔑 Core Concepts
+
+### 🤝 Web of Trust
+The Web of Trust is central to Utopia’s vision of building decentralized networks rooted in real-life connections. Trust is established through personal encounters, creating a secure, transparent, and community-driven network.  
+
+By enabling users to share encrypted data exclusively with individuals they know and trust, the Web of Trust enhances privacy and fosters deeper connections. It lays the foundation for authentic collaboration and meaningful interactions.
+
+### 🌐 Decentralization
+While we envision decentralized networking and infrastructure, our current tools rely on centralized servers. Our long-term goal is to transition to a truly decentralized app that operates within a peer-to-peer (P2P) network. This approach eliminates the need for central servers, giving users full control over their data and interactions.
+
+Decentralization empowers people to create networks that reflect their unique needs, values, and independence—free from reliance on centralized structures, fostering autonomy and resilience.
+
+### 🏆 Gamification
+
+Transformation and collective manifestation should be engaging and playful. Through motivational UX design, we guide users through our apps and encourage them to take action. Quests, achievements, and collaborative challenges spark motivation and inspire individuals to connect, engage in real-life activities, and contribute to collective change in a meaningful and enjoyable way.
 
 ## 📜 License
 
