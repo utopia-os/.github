@@ -74,8 +74,7 @@ All Utopia OS projects are licensed under the [GNU General Public License v3.0](
 
 Become part of the team and [join us on Telegram](https://t.me/UtopiaMap)
 
-## Crowdfunding 💚
-
+## Crowdfunding [![](https://img.shields.io/opencollective/backers/utopia-project)](https://opencollective.com/utopia-project#section-contributors)  
 We are building Utopia Map as a collaborative, community-driven tool for decentralized coordination and real-life networking. To keep this project sustainable and accessible, we need your support!
 
 <a href="https://opencollective.com/utopia-project">
